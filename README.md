@@ -1,0 +1,1 @@
+# Creator Marketplace Assessment\n\nClean Architecture + Riverpod scaffold.
