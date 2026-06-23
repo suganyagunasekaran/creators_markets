@@ -23,8 +23,7 @@ class _OtpScreenState
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor:
-      const Color(0xffF5F7FA),
+      backgroundColor: Colors.pinkAccent.withOpacity(0.5),
       appBar: AppBar(
         elevation: 0,
         backgroundColor:
